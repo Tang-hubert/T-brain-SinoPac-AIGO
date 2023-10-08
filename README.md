@@ -10,3 +10,4 @@
     - Age_of_Building: have to times -1
     - Parking_Area: Most are 0, and if it have wont effect the result(0,1)
     - Auxiliary_Building_Area: Most are 0, and if it have wont effect the result(0,1)
+- Knowing how to evaluate the ML result.
